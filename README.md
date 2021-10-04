@@ -1,3 +1,3 @@
-Curso ConstruDelas - GIT
-Prof. JC Bombardelli
+Curso ConstruDelas - GIT <br />
+Prof. JC Bombardelli <br />
 Tech Lead At Gama Academy
